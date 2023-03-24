@@ -6,7 +6,7 @@ hero:
   text: good things will soon happen~
   tagline: learn more...
   image:
-    src: /cat.png
+    src: ./public/img.png
     alt: QILANBEI
   actions:
     - theme: brand
